@@ -42,6 +42,9 @@ namespace pdf
             pdw.Close();
 
             MessageBox.Show("se genero piola", "exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            //se comento esto para ver los cambios
+
         }
     }
 }
